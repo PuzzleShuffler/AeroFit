@@ -1,3 +1,3 @@
 # aerofit
 
-Market Research for AeroFit using `pandas`, `matplotlib`,`seaborn`, and `pinguoin`. Includes anova and chi sq test. The finished report is within `AeroFit.ipynb`.
+Market research for AeroFit using `pandas`, `matplotlib`, `seaborn`, and `pinguoin`. Includes anova and chi sq test. Report is within `AeroFit.ipynb`.
